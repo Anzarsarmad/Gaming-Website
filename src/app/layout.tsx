@@ -11,7 +11,7 @@ const lato = Lato({
 });
 
 export const metadata = {
-  title: 'Board Gaming',
+  title: 'Gaming Hub',
   description: 'Discover the best gaming experience',
 };
 
